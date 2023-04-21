@@ -20,17 +20,9 @@
         android:label="fragment_login"
         tools:layout="@layout/fragment_login" >
         <action
-            android:id="@+id/action_fragmentLogin_to_furniture_Screen"
-            app:destination="@id/furniture_Screen" />
-        <action
-            android:id="@+id/action_fragmentLogin_to_tabView2"
+            android:id="@+id/action_fragmentLogin_to_tabView4"
             app:destination="@id/tabView" />
     </fragment>
-    <fragment
-        android:id="@+id/fragmentProfile"
-        android:name="com.example.btt2screen.fragmentscreen.FragmentProfile"
-        android:label="fragment_profile"
-        tools:layout="@layout/fragment_profile" />
     <fragment
         android:id="@+id/fragmentSplashscreen"
         android:name="com.example.btt2screen.FragmentSplashscreen"
@@ -45,7 +37,7 @@
         android:name="com.example.btt2screen.fragmentscreen.FragmentAllitem"
         android:label="FragmentAllitem" >
         <action
-            android:id="@+id/action_fragmentAllitem_to_tabView2"
+            android:id="@+id/action_fragmentAllitem_to_tabView3"
             app:destination="@id/tabView" />
     </fragment>
     <fragment
@@ -53,7 +45,7 @@
         android:name="com.example.btt2screen.fragmentscreen.FragmentCabinet"
         android:label="FragmentCabinet" >
         <action
-            android:id="@+id/action_fragmentCabinet_to_tabView2"
+            android:id="@+id/action_fragmentCabinet_to_tabView4"
             app:destination="@id/tabView" />
     </fragment>
     <fragment
@@ -61,7 +53,7 @@
         android:name="com.example.btt2screen.fragmentscreen.FragmentChair"
         android:label="FragmentChair" >
         <action
-            android:id="@+id/action_fragmentChair_to_tabView2"
+            android:id="@+id/action_fragmentChair_to_tabView3"
             app:destination="@id/tabView" />
     </fragment>
     <activity
@@ -74,7 +66,7 @@
         android:name="com.example.btt2screen.fragmentscreen.FragmentSofa"
         android:label="FragmentSofa" >
         <action
-            android:id="@+id/action_fragmentSofa_to_tabView2"
+            android:id="@+id/action_fragmentSofa_to_tabView4"
             app:destination="@id/tabView" />
     </fragment>
     <fragment
@@ -82,12 +74,15 @@
         android:name="com.example.btt2screen.fragmentscreen.FragmentPlantpot"
         android:label="FragmentPlantpot" >
         <action
-            android:id="@+id/action_fragmentPlantpot_to_tabView2"
+            android:id="@+id/action_fragmentPlantpot_to_tabView3"
             app:destination="@id/tabView" />
     </fragment>
-    <activity
-        android:id="@+id/furniture_Screen"
-        android:name="com.example.btt2screen.Furniture_Screen"
-        android:label="activity_furniture_screen"
-        tools:layout="@layout/activity_furniture_screen" />
+    <fragment
+        android:id="@+id/fragmentProfile"
+        android:name="com.example.btt2screen.fragmentscreen.FragmentProfile"
+        android:label="FragmentProfile" >
+        <action
+            android:id="@+id/action_fragmentProfile_to_tabView"
+            app:destination="@id/tabView" />
+    </fragment>
 </navigation>

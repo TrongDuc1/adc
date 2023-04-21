@@ -19,7 +19,7 @@
                         </option>
                         <option name="myPositions">
                           <map>
-                            <entry key="action_fragmentAllitem_to_tabView2">
+                            <entry key="action_fragmentAllitem_to_tabView3">
                               <value>
                                 <LayoutPositions />
                               </value>
@@ -34,13 +34,13 @@
                       <LayoutPositions>
                         <option name="myPosition">
                           <Point>
-                            <option name="x" value="888" />
-                            <option name="y" value="7" />
+                            <option name="x" value="757" />
+                            <option name="y" value="-101" />
                           </Point>
                         </option>
                         <option name="myPositions">
                           <map>
-                            <entry key="action_fragmentCabinet_to_tabView2">
+                            <entry key="action_fragmentCabinet_to_tabView4">
                               <value>
                                 <LayoutPositions />
                               </value>
@@ -61,7 +61,7 @@
                         </option>
                         <option name="myPositions">
                           <map>
-                            <entry key="action_fragmentChair_to_tabView2">
+                            <entry key="action_fragmentChair_to_tabView3">
                               <value>
                                 <LayoutPositions />
                               </value>
@@ -76,18 +76,13 @@
                       <LayoutPositions>
                         <option name="myPosition">
                           <Point>
-                            <option name="x" value="-181" />
-                            <option name="y" value="-318" />
+                            <option name="x" value="-155" />
+                            <option name="y" value="-263" />
                           </Point>
                         </option>
                         <option name="myPositions">
                           <map>
-                            <entry key="action_fragmentLogin_to_furniture_Screen">
-                              <value>
-                                <LayoutPositions />
-                              </value>
-                            </entry>
-                            <entry key="action_fragmentLogin_to_tabView2">
+                            <entry key="action_fragmentLogin_to_tabView4">
                               <value>
                                 <LayoutPositions />
                               </value>
@@ -108,7 +103,7 @@
                         </option>
                         <option name="myPositions">
                           <map>
-                            <entry key="action_fragmentPlantpot_to_tabView2">
+                            <entry key="action_fragmentPlantpot_to_tabView3">
                               <value>
                                 <LayoutPositions />
                               </value>
@@ -123,8 +118,8 @@
                       <LayoutPositions>
                         <option name="myPosition">
                           <Point>
-                            <option name="x" value="-315" />
-                            <option name="y" value="510" />
+                            <option name="x" value="-226" />
+                            <option name="y" value="290" />
                           </Point>
                         </option>
                       </LayoutPositions>
@@ -135,8 +130,8 @@
                       <LayoutPositions>
                         <option name="myPosition">
                           <Point>
-                            <option name="x" value="162" />
-                            <option name="y" value="-315" />
+                            <option name="x" value="127" />
+                            <option name="y" value="-74" />
                           </Point>
                         </option>
                         <option name="myPositions">
@@ -162,7 +157,7 @@
                         </option>
                         <option name="myPositions">
                           <map>
-                            <entry key="action_fragmentSofa_to_tabView2">
+                            <entry key="action_fragmentSofa_to_tabView4">
                               <value>
                                 <LayoutPositions />
                               </value>
@@ -189,18 +184,6 @@
                               </value>
                             </entry>
                           </map>
-                        </option>
-                      </LayoutPositions>
-                    </value>
-                  </entry>
-                  <entry key="furniture_Screen">
-                    <value>
-                      <LayoutPositions>
-                        <option name="myPosition">
-                          <Point>
-                            <option name="x" value="176" />
-                            <option name="y" value="146" />
-                          </Point>
                         </option>
                       </LayoutPositions>
                     </value>

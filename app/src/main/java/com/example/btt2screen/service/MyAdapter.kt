@@ -21,7 +21,7 @@ class MyAdapter(private val data: List<Property>) : RecyclerView.Adapter<MyAdapt
             val description = view.findViewById<TextView>(R.id.status)
 
             title.text = property.name
-            description.text = property.price
+//            description.text = property.name
 
             Glide.with(view.context).load(property.img).centerCrop().into(imageView)
         }

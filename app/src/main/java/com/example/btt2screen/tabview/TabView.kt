@@ -21,7 +21,11 @@ class TabView : AppCompatActivity() {
         val adapter = SampleAdapter(supportFragmentManager)
         viewPager.adapter = adapter
         tabLayout.setupWithViewPager(viewPager)
-
+        tabLayout.getTabAt(0)!!.setIcon(R.drawable.ic_baseline_home_24)
+        tabLayout.getTabAt(1)!!.setIcon(R.drawable.ic_chair_white)
+        tabLayout.getTabAt(2)!!.setIcon(R.drawable.ic_sofa_white)
+        tabLayout.getTabAt(3)!!.setIcon(R.drawable.ic_file_cabinet_white)
+        tabLayout.getTabAt(4)!!.setIcon(R.drawable.ic_plant_pot_white)
         tabLayout.addOnTabSelectedListener(object : TabLayout.OnTabSelectedListener {
             override fun onTabSelected(tab: TabLayout.Tab) {
             }
@@ -36,6 +40,6 @@ class TabView : AppCompatActivity() {
     private fun initToolbar() {
         val toolbar: Toolbar = findViewById(R.id.toolbar)
         setSupportActionBar(toolbar)
-        supportActionBar!!.title = "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t HOME"
+        supportActionBar!!.title = "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tWELLCOME"
     }
 }

@@ -18,11 +18,11 @@ class SampleAdapter(fm: FragmentManager) : FragmentPagerAdapter(fm) {
             getItem(position)
     }
     override fun getPageTitle(position: Int): CharSequence = when (position) {
-        0 -> "All"
-        1 -> "Chair"
-        2 -> "Sofa"
-        3 -> "Wardrobe"
-        4-> "Plantpot"
+        0 -> ""
+        1 -> ""
+        2 -> ""
+        3 -> ""
+        4-> ""
         else -> ""
     }
     override fun getCount(): Int = 5

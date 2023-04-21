@@ -21,7 +21,10 @@
         <entry key="..\:/tailieuhoctap/HK2-nam4/LTdd1/bttuan5-m/bttuan4-master/app/src/main/res/drawable-v24/ic_person_gray_24dp.xml" value="0.1" />
         <entry key="..\:/tailieuhoctap/HK2-nam4/LTdd1/bttuan5-m/bttuan4-master/app/src/main/res/drawable-xxhdpi/ic_quit.xml" value="0.1" />
         <entry key="..\:/tailieuhoctap/HK2-nam4/LTdd1/bttuan5-m/bttuan4-master/app/src/main/res/drawable/buttonlg.xml" value="0.1" />
+        <entry key="..\:/tailieuhoctap/HK2-nam4/LTdd1/bttuan5-m/bttuan4-master/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.157" />
         <entry key="..\:/tailieuhoctap/HK2-nam4/LTdd1/bttuan5-m/bttuan4-master/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/tailieuhoctap/HK2-nam4/LTdd1/bttuan5-m/bttuan4-master/app/src/main/res/drawable/ic_plant_pot_white.xml" value="0.157" />
+        <entry key="..\:/tailieuhoctap/HK2-nam4/LTdd1/bttuan5-m/bttuan4-master/app/src/main/res/drawable/ic_sofa_white.xml" value="0.157" />
         <entry key="..\:/tailieuhoctap/HK2-nam4/LTdd1/bttuan5-m/bttuan4-master/app/src/main/res/drawable/restaurant.xml" value="0.1" />
         <entry key="..\:/tailieuhoctap/HK2-nam4/LTdd1/bttuan5-m/bttuan4-master/app/src/main/res/layout/activity_furniture_screen.xml" value="0.24444444444444444" />
         <entry key="..\:/tailieuhoctap/HK2-nam4/LTdd1/bttuan5-m/bttuan4-master/app/src/main/res/layout/activity_login_screen.xml" value="0.1" />
@@ -33,8 +36,9 @@
         <entry key="..\:/tailieuhoctap/HK2-nam4/LTdd1/bttuan5-m/bttuan4-master/app/src/main/res/layout/activity_sample_adapter.xml" value="0.1" />
         <entry key="..\:/tailieuhoctap/HK2-nam4/LTdd1/bttuan5-m/bttuan4-master/app/src/main/res/layout/activity_sign_up_screen.xml" value="0.1" />
         <entry key="..\:/tailieuhoctap/HK2-nam4/LTdd1/bttuan5-m/bttuan4-master/app/src/main/res/layout/activity_splash_screen.xml" value="0.1" />
-        <entry key="..\:/tailieuhoctap/HK2-nam4/LTdd1/bttuan5-m/bttuan4-master/app/src/main/res/layout/activity_tab_view.xml" value="0.1" />
+        <entry key="..\:/tailieuhoctap/HK2-nam4/LTdd1/bttuan5-m/bttuan4-master/app/src/main/res/layout/activity_tab_view.xml" value="0.22962962962962963" />
         <entry key="..\:/tailieuhoctap/HK2-nam4/LTdd1/bttuan5-m/bttuan4-master/app/src/main/res/layout/activity_welcomescreen.xml" value="0.15454545454545454" />
+        <entry key="..\:/tailieuhoctap/HK2-nam4/LTdd1/bttuan5-m/bttuan4-master/app/src/main/res/layout/clicked_itemview.xml" value="0.1" />
         <entry key="..\:/tailieuhoctap/HK2-nam4/LTdd1/bttuan5-m/bttuan4-master/app/src/main/res/layout/dialog_edit.xml" value="0.20416666666666666" />
         <entry key="..\:/tailieuhoctap/HK2-nam4/LTdd1/bttuan5-m/bttuan4-master/app/src/main/res/layout/fragment_allitem.xml" value="0.35208333333333336" />
         <entry key="..\:/tailieuhoctap/HK2-nam4/LTdd1/bttuan5-m/bttuan4-master/app/src/main/res/layout/fragment_cabinet.xml" value="0.35208333333333336" />
